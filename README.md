@@ -5,6 +5,6 @@
 
 
 ### Reading Notes From 102
-[Class 01](Class-01.md)
-[Class 02](Class-02.md)
+-[Class 01](Class-01.md)
+-[Class 02](Class-02.md)
 
