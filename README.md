@@ -6,4 +6,4 @@
 
 ### Reading Notes From 102
 
-[Class 01] (class-01.md)
+[class 01] (class-01.md)
