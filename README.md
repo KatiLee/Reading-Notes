@@ -5,4 +5,4 @@
 
 
 ### Reading Notes From 102
-[class 01](class-01.md)
+[Class 01](Class-01.md)
