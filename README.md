@@ -8,3 +8,7 @@
 - [Class 02](Class-02.md)
 - [Class 03](Class-03.md)
 - [Class 04](Class-04.md)
+- [Class 05](Class-05.md)
+- [CLass 06](Class-06.md)
+- [Class 07](Class-07.md)
+- [Class 08](Class-08.md)
