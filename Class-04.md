@@ -1,7 +1,7 @@
 # Reading Notes
 ## Wireframe and Design
 
--> Here are a number of ways different designers can structure the process from design to implementation:
+- > Here are a number of ways different designers can structure the process from design to implementation:
 
 Wireframe > Interactive Prototype > Visual > Design
 Sketch > Code
