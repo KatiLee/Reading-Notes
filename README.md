@@ -1,8 +1,11 @@
-# Reading-Notes-Review
+# Introduction
+Hi, I am Kati Lee and I am currently a student at the DeltaV School for coding in Cedar Rapids, Iowa. 
 
-## Table of Contents
+## Reading-Notes-Review
 
-### Reading Notes From 102
+### Table of Contents
+
+#### Reading Notes From 102
 
 - [Class 01](Class-01.md)
 - [Class 02](Class-02.md)
