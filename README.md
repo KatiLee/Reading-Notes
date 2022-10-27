@@ -9,7 +9,7 @@ The following pages will contain my notes and takeaways from 102.
 
 #### [Reading Notes From 102](coding-102-reading-notes.md/)
 
-- [Class 01](/coding-102-reading-notes.md/Class-102-01)
+- [Class 01](/coding-102-reading-notes.md/Class-102-01.md)
 - [Class 02](Class-102-02.md)
 - [Class 03](Class-102-03.md)
 - [Class 04](Class-102-04.md)
