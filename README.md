@@ -10,13 +10,13 @@ The following pages will contain my notes and takeaways from 102.
 #### [Reading Notes From 102](coding-102-reading-notes.md/)
 
 - [Class 01](/coding-102-reading-notes.md/Class-102-01.md)
-- [Class 02](Class-102-02.md)
-- [Class 03](Class-102-03.md)
-- [Class 04](Class-102-04.md)
-- [Class 05](Class-102-05.md)
-- [CLass 06](Class-102-06.md)
-- [Class 07](Class-102-07.md)
-- [Class 08](Class-102-08.md)
+- [Class 02](/coding-102-reading-notes.md/Class-102-02.md)
+- [Class 03](/coding-102-reading-notes.md/Class-102-03.md)
+- [Class 04](/coding-102-reading-notes.md/Class-102-04.md)
+- [Class 05](/coding-102-reading-notes.md/Class-102-05.md)
+- [CLass 06](/coding-102-reading-notes.md/Class-102-06.md)
+- [Class 07](/coding-102-reading-notes.md/Class-102-07.md)
+- [Class 08](/coding-102-reading-notes.md/Class-102-08.md)
 
 #### [Reading Notes From 201](coding-201-reading-notes.md/)
 
