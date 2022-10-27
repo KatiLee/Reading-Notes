@@ -7,7 +7,7 @@ The following pages will contain my notes and takeaways from 102.
 
 ### Table of Contents
 
-#### Reading Notes From 102
+#### [Reading Notes From 102](coding-102-reading-notes.md/)
 
 - [Class 01](Class-01.md)
 - [Class 02](Class-02.md)
@@ -17,3 +17,7 @@ The following pages will contain my notes and takeaways from 102.
 - [CLass 06](Class-06.md)
 - [Class 07](Class-07.md)
 - [Class 08](Class-08.md)
+
+#### [Reading Notes From 201](coding-201-reading-notes.md/)
+
+- [Class 01](Class-01.md)
