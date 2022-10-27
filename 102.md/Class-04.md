@@ -1,4 +1,5 @@
 # Reading Notes
+
 ## Wireframe and Design
 
 - > Here are a number of ways different designers can structure the process from design to implementation:
@@ -18,9 +19,6 @@ Wireframe.cc: Wireframe.cc provides you with the technology to create wireframes
 
 - > So I recommend scribbling a cheatsheet with your business and user goals (your requirements), your personas, use cases, and perhaps some reminders of the coolest features you stumbled across in your competitor research. A few choice quotes from your audience might also help focus your attention on the user’s experience, which is—never forget—what you’re designing!
 
-
-
 ## Mozilla HTML Basics
 
 ## Semantics
-
