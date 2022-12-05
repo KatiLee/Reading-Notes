@@ -34,4 +34,5 @@ The following pages will contain my notes and takeaways from 102.
 - [Class 12](/coding-201-reading-notes.md/Class-201-12.md)
 - [Class 13](/coding-201-reading-notes.md/Class-201-13.md)
 - [Class 14](/coding-201-reading-notes.md/Class-201-14.md)
+- [Class 14b](/coding-201-reading-notes.md/Class-201-14b.md)
 - [Class 15](/coding-201-reading-notes.md/Class-201.15.md)
