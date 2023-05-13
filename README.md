@@ -1,13 +1,13 @@
 # Introduction
 Hi, I am Kati Lee and I am currently a student at the DeltaV School for coding in Cedar Rapids, Iowa. 
 
-The following pages will contain my notes and takeaways from 102.
+The following pages will contain my notes and takeaways from class.
 
 ## Reading-Notes-Review
 
 ### Table of Contents
 
-#### [Reading Notes From 102- Intro to Software Development](coding-102-reading-notes.md/)
+## [Reading Notes From 102- Intro to Software Development](coding-102-reading-notes.md/)
 
 - [Class 01](/coding-102-reading-notes.md/Class-102-01.md)
 - [Class 02](/coding-102-reading-notes.md/Class-102-02.md)
@@ -18,7 +18,7 @@ The following pages will contain my notes and takeaways from 102.
 - [Class 07](/coding-102-reading-notes.md/Class-102-07.md)
 - [Class 08](/coding-102-reading-notes.md/Class-102-08.md)
 
-#### [Reading Notes From 201- Foundations of Software Development](coding-201-reading-notes.md/)
+## [Reading Notes From 201- Foundations of Software Development](coding-201-reading-notes.md/)
 
 - [Class 01](/coding-201-reading-notes.md/Class-201-01.md)
 - [Class 02](/coding-201-reading-notes.md/Class-201-02.md)
@@ -37,7 +37,7 @@ The following pages will contain my notes and takeaways from 102.
 - [Class 14b](/coding-201-reading-notes.md/Class-201-14b.md)
 - [Class 15](/coding-201-reading-notes.md/Class-201.15.md)
 
-#### [Reading Notes From 301- Intermediate Software Development](coding-301-reading-notes.md/)
+## [Reading Notes From 301- Intermediate Software Development](coding-301-reading-notes.md/)
 
 - [Class 01](/coding-301-reading-notes.md/Class-301-01.md)
 - [Class 02](/coding-301-reading-notes.md/Class-301-02.md)
@@ -55,3 +55,5 @@ The following pages will contain my notes and takeaways from 102.
 - [Class 14](/coding-301-reading-notes.md/Class-301-14.md)
 - [Class 14b](/coding-301-reading-notes.md/Class-301-14b.md)
 - [Class 15](/coding-301-reading-notes.md/Class-301-15.md)
+
+## [Reading Notes From 401- Advanced Software Development](coding-401-reading-notes.md/)
