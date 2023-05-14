@@ -60,6 +60,8 @@ The following pages will contain my notes and takeaways from class.
 
 - [Prep: Growth Mindset](/coding-401-reading-notes.md/Class-401-prep-growth-mindset.md)
 
+- [Prep: Practice in the Terminal](/coding-401-reading-notes.md/Class-401-prep-practice-in-terminal.md)
+
 - [Class 01](/coding-401-reading-notes.md/Class-401-01.md)
 - [Class 02](/coding-401-reading-notes.md/Class-401-02.md)
 - [Class 03](/coding-401-reading-notes.md/Class-401-03.md)
