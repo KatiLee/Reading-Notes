@@ -76,6 +76,31 @@
 
 ## File Manipulation:
 
+- mkdir = make directory
+
+- mkdir -p = tells Linux to create parent directories as needed.
+
+- mkdir -v = makes the 'mkdir' tell us what it is doing in regards to creating the directories and shows the paths. 
+
+- rmdir = remove directory. ** There is NO undo! -p and -v work similiarly for rmdir. Also, a directory must be empty before removal.
+
+- touch = creates a file, if there is a file referred to that does not exist, this will create it. 
+
+- cp (source) (destination) = this copies a file. 
+> Note that both the source and destination are paths. This means we may refer to them using both absolute and relative paths. 
+
+> When we use cp the destination can be a path to either a file or directory. If it is to a file ... then it will create a copy of the source but name the copy the filename specified in destination. If we provide a directory as the destination then it will copy the file into that directory and the copy will have the same name as the source.
+
+- -r = this is an option, which stands for recursive, that will copy directories, so if you are needing to copy many files within a directory this will include all. 
+
+- mv (source)(destination) = move. 
+
+- Within this command there is also an option to rename the file by providing an alternative title. 
+
+- rm = remove, when used with the -r option it can be used to remove recersive files, or otherwise put, it can remove directories and anything contained therein. The -r option can also be used with i which stands for interactive **Pro-gamer move, because, again, there is NO un-do.
+
+## Cheat Sheet:
+[Here is a link to Ryan's Linux Tutorial Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
 
 
 
