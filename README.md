@@ -62,6 +62,8 @@ The following pages will contain my notes and takeaways from class.
 
 - [Prep: Practice in the Terminal](/coding-401-reading-notes.md/Class-401-prep-practice-in-terminal.md)
 
+- [Prep: SQL Bolt Tutorial](/coding-401-reading-notes.md/Class-401-prep-sqlBolt.md)
+
 - [Class 01](/coding-401-reading-notes.md/Class-401-01.md)
 - [Class 02](/coding-401-reading-notes.md/Class-401-02.md)
 - [Class 03](/coding-401-reading-notes.md/Class-401-03.md)
