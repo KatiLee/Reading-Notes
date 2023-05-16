@@ -64,6 +64,10 @@ The following pages will contain my notes and takeaways from class.
 
 - [Prep: SQL Bolt Tutorial](/coding-401-reading-notes.md/Class-401-prep-sqlBolt.md)
 
+- [Prep: Engineering Readings](/coding-401-reading-notes.md/Class-401-prep-engineering-readings.md)
+
+- [Prep: Data Structures and Algorithms](/coding-401-reading-notes.md/Class-401-prep-data-structures-and-algorithms.md)
+
 - [Class 01](/coding-401-reading-notes.md/Class-401-01.md)
 - [Class 02](/coding-401-reading-notes.md/Class-401-02.md)
 - [Class 03](/coding-401-reading-notes.md/Class-401-03.md)
