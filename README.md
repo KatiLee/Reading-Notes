@@ -111,3 +111,5 @@ The following pages will contain my notes and takeaways from class.
 - [Class 41](/coding-401-reading-notes.md/Class-401-41.md)
 - [Class 42](/coding-401-reading-notes.md/Class-401-42.md)
 - [Class 43](/coding-401-reading-notes.md/Class-401-43.md)
+
+- [Ethics in Tech](/coding-401-reading-notes.md/Class-401-ethics.md)
